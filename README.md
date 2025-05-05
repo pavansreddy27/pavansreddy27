@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full-Stack developer based in , India.<br>I am an Information Technology undergraduate from Presidency University.<br>I am very passionate about improving my coding skills & developing applications & websites.<br>I build WebApps and Websites using Java,Full Stack and Frontend Full Stack .<br>Working for myself to improve my skills.
+I am a Full-Stack developer based in India.<br>I am an Information Technology undergraduate from Presidency University.<br>I am very passionate about improving my coding skills & developing applications & websites.<br>I build WebApps and Websites using Java, Full Stack and Frontend Full Stack .<br>Working for myself to improve my skills.
 
 
 ## 🌐 Socials:
